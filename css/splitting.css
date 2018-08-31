@@ -149,7 +149,7 @@
   transition-delay: calc( 0.04s * var(--char-index) );
 }
 .stagger-it:hover {
-  color: #00C9B1;
+  color: rgb(56, 182, 255);
 }
 
 .stretch-it .char {
